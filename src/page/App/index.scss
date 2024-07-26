@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+.replayer {
+  top: 15px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  width: 800px;
+  position: absolute;
+  box-shadow: 0 0 10px black;
+}
